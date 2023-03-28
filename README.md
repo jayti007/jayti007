@@ -1,7 +1,8 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jayti007)](https://solved.ac/jayti007)
 
 [![Solvled.ac날짜](https://mazandi.herokuapp.com/api?handle=jayti007&theme=warm)](https://solved.ac/jayti007)
-
+[![Solvled.ac날짜2](https://mazandi.herokuapp.com/api?handle=jayti007&theme=cold)](https://solved.ac/jayti007)
+[![Solvled.ac날짜3](https://mazandi.herokuapp.com/api?handle=jayti007&theme=dark)](https://solved.ac/jayti007)
 
 
 
@@ -13,4 +14,4 @@
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jayti007)
 
 ### IDE
-![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=dark)
+![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
