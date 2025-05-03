@@ -1,7 +1,5 @@
 ## About Me
-I'm currently learning **Django** as Backend Developer.
-
-✨**Problem Solving**✨
+I love ✨**Problem Solving**✨
 
 
 ## 💡 PS
